@@ -5,13 +5,13 @@ This project is a simple calculator desktop application that allows users to per
 
 ## Table of Contents
  
-   * Overview
-   * Features
-   * Installation
-   * Usage
-   * Screenshots
-   * Contributing
-   * License
+   * [Overview](https://github.com/Yarlagadda-saimanoj/Basic-Calculator-Desktop-Application-using-GUI/tree/main#overview)
+   * [Features](https://github.com/Yarlagadda-saimanoj/Basic-Calculator-Desktop-Application-using-GUI#features)
+   * [Installation](https://github.com/Yarlagadda-saimanoj/Basic-Calculator-Desktop-Application-using-GUI#installation)
+   * [Usage](https://github.com/Yarlagadda-saimanoj/Basic-Calculator-Desktop-Application-using-GUI#usage)
+   * Screenshots (Updated Soon)
+   * [Contributing](https://github.com/Yarlagadda-saimanoj/Basic-Calculator-Desktop-Application-using-GUI#contributing)
+   * [License](https://github.com/Yarlagadda-saimanoj/Basic-Calculator-Desktop-Application-using-GUI#license)
 ## Overview
 
 The Basic Calculator Desktop Application using GUI is a simple yet useful tool that allows users to perform basic arithmetic calculations on their desktop. It features a clean and user-friendly interface with buttons for each arithmetic operation, supports decimal point and negative numbers, displays the result of each calculation on the screen, and includes a clear button to reset the calculator.
