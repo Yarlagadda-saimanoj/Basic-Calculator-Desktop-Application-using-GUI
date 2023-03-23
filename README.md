@@ -45,6 +45,8 @@ To use the Basic Calculator Desktop Application using GUI, follow these steps:
 2. Use the buttons on the GUI to input numbers and arithmetic operations
 3. Press the "=" button to display the result of the calculation
 4. Press the "C" button to clear the calculator
+## ScreenShots:
+![Basic Calculator Desktop Application](https://user-images.githubusercontent.com/98306116/227134464-a2957123-4643-407d-9bb0-e6ef258a327d.png)
 
 
 ## Contributing
