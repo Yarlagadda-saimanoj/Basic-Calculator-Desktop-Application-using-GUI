@@ -9,7 +9,7 @@ This project is a simple calculator desktop application that allows users to per
    * [Features](https://github.com/Yarlagadda-saimanoj/Basic-Calculator-Desktop-Application-using-GUI#features)
    * [Installation](https://github.com/Yarlagadda-saimanoj/Basic-Calculator-Desktop-Application-using-GUI#installation)
    * [Usage](https://github.com/Yarlagadda-saimanoj/Basic-Calculator-Desktop-Application-using-GUI#usage)
-   * Screenshots (Updated Soon)
+   * [Screenshots](https://github.com/Yarlagadda-saimanoj/Basic-Calculator-Desktop-Application-using-GUI#screenshots)
    * [Contributing](https://github.com/Yarlagadda-saimanoj/Basic-Calculator-Desktop-Application-using-GUI#contributing)
    * [License](https://github.com/Yarlagadda-saimanoj/Basic-Calculator-Desktop-Application-using-GUI#license)
 ## Overview
